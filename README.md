@@ -5,7 +5,6 @@
 <h2>HTML,CSS E JavaScript</h2>
 
 
-
 <img src="(https://github.com/user-attachments/assets/621411b5-8519-4a54-a3ea-08ad01605543)">
 
-<img src"![insta2](https://github.com/user-attachments/assets/cec4eee9-17fb-4c9e-bf2c-5fe0728218f1)">
+
